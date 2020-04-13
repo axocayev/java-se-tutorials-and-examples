@@ -74,14 +74,7 @@ to test whether x is greater than y
 (using the <code class="w3-codespan">&gt;</code> operator). As x is 20, and y is 18, and we know that 20 is greater than 18, we print to the screen that "x is greater than y".</p>
 
 <hr>
-<div id="midcontentadcontainer" style="overflow:auto;text-align:center">
-<!-- MidContent -->
 
-  <div id="div-gpt-ad-1493883843099-0" style="" data-google-query-id="CM-XvLOK5ugCFW1Uwgod-xsFzw">
-    
-  <div id="google_ads_iframe_/16833175/MidContent_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/16833175/MidContent_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="6" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
-    
-</div>
 <hr>
 
 <h2>The else Statement</h2>
