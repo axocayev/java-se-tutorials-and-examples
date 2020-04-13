@@ -1,12 +1,4 @@
-<div class="w3-col l10 m12" id="main">
-      <div id="mainLeaderboard" style="overflow:hidden;">
-        <!-- MainLeaderboard-->
-        
-        <div id="div-gpt-ad-1422003450156-2" data-google-query-id="CMqXvLOK5ugCFW1Uwgod-xsFzw">
-          
-        <div id="google_ads_iframe_/16833175/MainLeaderboard_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16833175/MainLeaderboard_0" title="3rd party ad content" name="google_ads_iframe_/16833175/MainLeaderboard_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" data-load-complete="true"></iframe></div></div>
-       
-      </div>
+
 <h1>Java <span class="color_h1">If ... Else</span></h1>
 <div class="w3-clear nextprev">
 
