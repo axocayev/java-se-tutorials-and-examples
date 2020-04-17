@@ -16,28 +16,28 @@ Output Format
 In each line, output the number located in  position of  line. If there is no such position, just print "ERROR!"
 
 Sample Input
+<br>
+5<br>
+5 41 77 74 22 44<br>
+1 12<br>
+4 37 34 36 52<br>
+0<br>
+3 20 22 33<br>
+5<br>
+1 3<br>
+3 4<br>
+3 1<br>
+4 3<br>
+5 5<br>
+Sample Output<br>
 
-5
-5 41 77 74 22 44
-1 12
-4 37 34 36 52
-0
-3 20 22 33
-5
-1 3
-3 4
-3 1
-4 3
-5 5
-Sample Output
+74<br>
+52<br>
+37<br>
+ERROR!<br>
+ERROR!<br>
+Explanation<br>
 
-74
-52
-37
-ERROR!
-ERROR!
-Explanation
-
-The diagram below explains the queries:
+The diagram below explains the queries:<br>
 
 <img src="https://s3.amazonaws.com/hr-assets/0/1489168616-b25dd38013-arraylist.png" alt="image" title="">
