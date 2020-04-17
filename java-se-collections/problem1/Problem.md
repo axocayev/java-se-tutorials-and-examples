@@ -1,31 +1,43 @@
-We define the following:
+Sometimes it's better to use dynamic size arrays. Java's Arraylist can provide you this feature. Try to solve this problem using Arraylist.
 
-A subarray of an -element array is an array composed from a contiguous block of the original array's elements. For example, if , then the subarrays are , , , , , and . Something like  would not be a subarray as it's not a contiguous subsection of the original array.
-The sum of an array is the total sum of its elements.
-An array's sum is negative if the total sum of its elements is negative.
-An array's sum is positive if the total sum of its elements is positive.
-Given an array of  integers, find and print its number of negative subarrays on a new line.
+You are given  lines. In each line there are zero or more integers. You need to answer a few queries where you need to tell the number located in  position of  line.
+
+Take your input from System.in.
 
 Input Format
-
-The first line contains a single integer, , denoting the length of array .
-The second line contains  space-separated integers describing each respective element, , in array .
+The first line has an integer . In each of the next  lines there will be an integer  denoting number of integers on that line and then there will be  space-separated integers. In the next line there will be an integer  denoting number of queries. Each query will consist of two integers  and .
 
 Constraints
 
-Output Format
+Each number will fit in signed integer.
+Total number of integers in  lines will not cross .
 
-Print the number of subarrays of  having negative sums.
+Output Format
+In each line, output the number located in  position of  line. If there is no such position, just print "ERROR!"
 
 Sample Input
 
 5
-1 -2 4 -5 1
+5 41 77 74 22 44
+1 12
+4 37 34 36 52
+0
+3 20 22 33
+5
+1 3
+3 4
+3 1
+4 3
+5 5
 Sample Output
 
-9
+74
+52
+37
+ERROR!
+ERROR!
 Explanation
 
-There are nine negative subarrays of :
+The diagram below explains the queries:
 
-Thus, we print  on a new line.
+<img src="https://s3.amazonaws.com/hr-assets/0/1489168616-b25dd38013-arraylist.png" alt="image" title="">
